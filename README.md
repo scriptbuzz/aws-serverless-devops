@@ -1,2 +1,5 @@
 # aws-serverless-devops
-aws serverless devops pipeline using CodePipeline, CodeDeploy, CodeBuild, and CodeCommit
+
+This video is a walk-thru of an AWS serverless DevOps pipeline using CodePipeline, CodeDeploy, CodeBuild, and CodeCommit with chat notifications.
+
+https://youtu.be/U6Hja8LPKYQ
